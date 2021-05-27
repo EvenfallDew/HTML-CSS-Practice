@@ -1,1 +1,1 @@
-# html-practice
+# Some basic exercises of the course
