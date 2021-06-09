@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body, h1, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    height: 50px;
+    list-style: none;
+    line-height: 50px;
+    background: #2e3d44;
+}
+
+ul {
+    width: 900px;
+    margin: 0 auto;
+}
+
+li {
+    float: left;
+    width: 150px;
+    list-style: none;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:hover {
+    background: #f91000;
+}
+
+div {
+    display: none;
+    position: absolute;
+    width: 150px;
+    background: rgba(46, 61, 68, 0.9);
+}
+
+li:hover div {
+    display: block;
+}
+
+section {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #a52a2a;
+}
