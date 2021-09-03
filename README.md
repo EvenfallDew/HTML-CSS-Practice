@@ -1,6 +1,6 @@
 # Some basic exercises of HTML and CSS
 
-## 一些 HTML&CSS 的练习
+## HTML&CSS 练习
 
 ### 01. 简单博客
 
