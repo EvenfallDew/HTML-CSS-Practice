@@ -1,6 +1,9 @@
-# Some basic exercises of the course
-## 一些HTML&CSS的练习
-### 01. 简单博客
-> [源码地址](https://github.com/EvenfallDew/HTML-CSS-Practice/tree/main/blog)
+# Some basic exercises of HTML and CSS
 
-> [预览地址](https://evenfalldew.github.io/HTML-CSS-Practice/blog/index.html)
+## 一些 HTML&CSS 的练习
+
+### 01. 简单博客
+
+> [源码地址](https://github.com/EvenfallDew/HTML-CSS-Practice/tree/main/01_%E7%AE%80%E5%8D%95%E5%8D%9A%E5%AE%A2)
+
+> [预览地址](https://evenfalldew.github.io/HTML-CSS-Practice/01_%E7%AE%80%E5%8D%95%E5%8D%9A%E5%AE%A2/index.html)
